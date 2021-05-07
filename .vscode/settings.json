@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/duxy/.pyenv/versions/3.6.0/envs/ones-api/bin/python",
+    "code-runner.executorMap":
+    {
+        "python": "$pythonPath -u $fullFileName"
+    }
+}
